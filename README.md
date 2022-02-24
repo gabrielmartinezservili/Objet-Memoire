@@ -1,9 +1,9 @@
 
 # «&#8239;Objet&#8239;» Mémoire
-Voici le répertoire de mon «&#8239;Objet&#8239;» Mémoire, vous retrouverez dans les différents dossiers&#8201;:
+Voici le répertoire de mon __«&#8239;Objet&#8239;» Mémoire__ , vous retrouverez dans les différents dossiers&#8201;:
 - Mon écrit DNSEP avec sa bibliographie dans le dossier __*«&#8239;Objet&#8239;» écrit*[^1]__. 
  <br> Il est également consultable à ce lien&#8201;: [https://gabrielmartinezservili.github.io/objet-ecrit/](https://gabrielmartinezservili.github.io/objet-ecrit/)	
-- Les fichiers d'impressions (STL) et des exemples de paramétrage (3MF) dans le dossier  __*«&#8239;Objet&#8239;» Graphique__.*
+- Les fichiers d'impressions (STL) et des exemples de paramétrage (3MF) dans le dossier  __*«&#8239;Objet&#8239;» Graphique*__.
 - La notice d'assemblage accompagnés de vidéos
 
 <br>
