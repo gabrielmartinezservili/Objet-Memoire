@@ -6,7 +6,7 @@ Voici le répertoire de mon «&#8239;Objet&#8239;» Mémoire, vous retrouverez d
 - *Les fichiers d'impressions (STL) et des exemples de paramétrage (3MF) dans le dossier  «&#8239;Objet&#8239;» Graphique.*
 - *La notice d'assemblage accompagnés de vidéos*
 
-Ce projet à été conçu dans l'objectif de le  rendre accessible au plus grand nombre.
+<br>
 
 [^1]: ==Dans le dossier *Objet_ecrit*, télécharger le fichier html puis ouvrez le avec votre navigateur==
 
