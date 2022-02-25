@@ -6,17 +6,19 @@
 
   
 
-«&#8239;Corps et techniques&#8239;», *Communications*, 81, 2007, [en ligne] [https://www.persee.fr/issue/comm_0588-8018_2007_num_81_1](https://www.persee.fr/issue/comm_0588-8018_2007_num_81_1) [consulté le 30/10/2021].
+«&#8239;Corps et techniques&#8239;», *Communications*, 81, 2007, [en ligne] [https://www.persee.fr/issue/comm_0588-8018_2007_num_81_1](https://www.persee.fr/issue/comm_0588-8018_2007_num_81_1) <br>[consulté le 30/10/2021].
 
   
 
-**DURING**, **Elie**, *Prototype*, entretien réalisé par Frank Madlener, juin 2010, [en ligne] [http://etincelle.ircam.fr/952.10.html](http://etincelle.ircam.fr/952.10.html) [consulté le 04/12/2022].
+**DURING**, **Elie**, *Prototype*, entretien réalisé par Frank Madlener, juin 2010, [en ligne] [http://etincelle.ircam.fr/952.10.html](http://etincelle.ircam.fr/952.10.html) <br>[consulté le 04/12/2022].
 
   
 
-**JARRIGE**, **François**, *Révolutions industrielles : histoire d’un mythe*. [en ligne]  https://doi.org/10.3917/pro.349.0014 [consulté le 18/08/2021].
+**JARRIGE**, **François**, *Révolutions industrielles : histoire d’un mythe*. [en ligne]  https://doi.org/10.3917/pro.349.0014 
+<br>[consulté le 18/08/2021].
 
-**PAQUOT**, **Thierry**, *De la «&#8239;société de consommation&#8239;» et de ses détracteurs.* [en ligne] [https://doi.org/10.3917/mouv.054.0054](https://doi.org/10.3917/mouv.054.0054). [consulté le 10/09/2021].
+**PAQUOT**, **Thierry**, *De la «&#8239;société de consommation&#8239;» et de ses détracteurs.* [en ligne] [https://doi.org/10.3917/mouv.054.0054](https://doi.org/10.3917/mouv.054.0054). 
+<br> [consulté le 10/09/2021].
 
 **RAFFARD-ROUSSEL**, *Machine Terrestrographique, ouvrage réalisé dans le cadre d’une exposition à la galerie*, Octave Cowbell, Metz, 2021.
 
@@ -61,17 +63,17 @@
 
 «How to Make a Pencil», *Logic*, 2021, Magazine,[https://logicmag.io/commons/how-to-make-a-pencil/](https://logicmag.io/commons/how-to-make-a-pencil/).
 
-**KAYSER**, **Markus**, *Solar Sinter*, 2011, [en ligne] [https://kayserworks.com/798817030644](https://kayserworks.com/798817030644) [consulté le 22/07/2021].
+**KAYSER**, **Markus**, *Solar Sinter*, 2011, [en ligne] [https://kayserworks.com/798817030644](https://kayserworks.com/798817030644) <br>[consulté le 22/07/2021].
 
-**KEEP**, **Jonathan**, *Make your own 3D delta printer for ceramic,* 2013, [en ligne] [http://www.keep-art.co.uk/Self_build.html](http://www.keep-art.co.uk/Self_build.html) [consulté le 20/03/2021].
+**KEEP**, **Jonathan**, *Make your own 3D delta printer for ceramic,* 2013, [en ligne] [http://www.keep-art.co.uk/Self_build.html](http://www.keep-art.co.uk/Self_build.html) <br>[consulté le 20/03/2021].
 
-**Rourke**, **Daniel**, et **Moreshin**,  **Allahyari**, #Additivism — *The 3D Additivist Manifesto*, [en ligne] https://additivism.org/manifesto [consulté le 16/04/2021].
+**Rourke**, **Daniel**, et **Moreshin**,  **Allahyari**, #Additivism — *The 3D Additivist Manifesto*, [en ligne] https://additivism.org/manifesto <br>[consulté le 16/04/2021].
 
-**TIESSÉ**, **Martin**, *Voir, Juger, agir*. Mémoire de fin d’étude. Sous la direction de Camille Bosqué, [en ligne] [https://voirjugeragir.ensci.com/](https://voirjugeragir.ensci.com/) [consulté le 05/08/2021].
+**TIESSÉ**, **Martin**, *Voir, Juger, agir*. Mémoire de fin d’étude. Sous la direction de Camille Bosqué, [en ligne] [https://voirjugeragir.ensci.com/](https://voirjugeragir.ensci.com/) <br> [consulté le 05/08/2021].
 
-*La brève histoire des premières machines à pédales*, LOW←TECH MAGAZINE, [en ligne] [https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html](https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html) [consulté le 25/08/2021]
+*La brève histoire des premières machines à pédales*, LOW←TECH MAGAZINE, [en ligne] [https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html](https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html) <br> [consulté le 25/08/2021]
 
-*Outils et machines de forage manuel*, LOW←TECH MAGAZINE, 2020, [en ligne] [https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html](https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html) [consulté le 25/08/2021].
+*Outils et machines de forage manuel*, LOW←TECH MAGAZINE, 2020, [en ligne] [https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html](https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html) <br> [consulté le 25/08/2021].
 
   
 
