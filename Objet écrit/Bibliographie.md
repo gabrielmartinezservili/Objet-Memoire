@@ -69,10 +69,9 @@
 
 **TIESSÉ**, **Martin**, *Voir, Juger, agir*. Mémoire de fin d’étude. Sous la direction de Camille Bosqué, [en ligne] [https://voirjugeragir.ensci.com/](https://voirjugeragir.ensci.com/) [consulté le 05/08/2021].
 
-*Outils et machines de forage manuel*, LOW←TECH MAGAZINE, 2020, [en ligne] [https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html](https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html) [consulté le 25/08/2021].
-
-
 *La brève histoire des premières machines à pédales*, LOW←TECH MAGAZINE, [en ligne] [https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html](https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html) [consulté le 25/08/2021]
+
+*Outils et machines de forage manuel*, LOW←TECH MAGAZINE, 2020, [en ligne] [https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html](https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html) [consulté le 25/08/2021].
 
   
 
