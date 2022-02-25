@@ -65,13 +65,12 @@
 
 **KEEP**, **Jonathan**, *Make your own 3D delta printer for ceramic,* 2013, [en ligne] [http://www.keep-art.co.uk/Self_build.html](http://www.keep-art.co.uk/Self_build.html) [consulté le 20/03/2021].
 
+**Rourke**, **Daniel**, et **Moreshin**,  **Allahyari**, #Additivism — *The 3D Additivist Manifesto*, [en ligne] https://additivism.org/manifesto [consulté le 16/04/2021].
+
 **TIESSÉ**, **Martin**, *Voir, Juger, agir*. Mémoire de fin d’étude. Sous la direction de Camille Bosqué, [en ligne] [https://voirjugeragir.ensci.com/](https://voirjugeragir.ensci.com/) [consulté le 05/08/2021].
 
 *Outils et machines de forage manuel*, LOW←TECH MAGAZINE, 2020, [en ligne] [https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html](https://solar.lowtechmagazine.com/fr/2020/10/hand-powered-drilling-tools-and-machines.html) [consulté le 25/08/2021].
 
-  
-
-**Rourke**, **Daniel**, et **Moreshin**,  **Allahyari**, #Additivism — *The 3D Additivist Manifesto*, [en ligne] https://additivism.org/manifesto [consulté le 16/04/2021].
 
 *La brève histoire des premières machines à pédales*, LOW←TECH MAGAZINE, [en ligne] [https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html](https://solar.lowtechmagazine.com/fr/2011/05/history-of-pedal-powered-machines.html) [consulté le 25/08/2021]
 
