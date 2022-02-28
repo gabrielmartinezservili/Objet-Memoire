@@ -13,7 +13,7 @@ Personnellement j'utilise [Prusa Slicer](https://www.prusa3d.com/fr/page/prusasl
 |Pointe à bille  |  *PLA*              | *hauteur de couche: 0.08 ou 0.16mm*
 |Capuchon        |    *PLA*            |*hauteur de couche: 0.08 ou 0.16mm*
 |Réservoir       |    *PLA*            |*hauteur de couche: 0.08 ou 0.16mm*
-|Bille           |    *Acier*            |x
+|Bille           |    *Acier inoxydable*            |x
 |Pointe épaisse  |   *TPE *(93A)**     |*hauteur de couche: 0.2mm*[^3]
 |Pointe fine     |    *TPE *(93A)**    |*hauteur de couche: 0.2mm*[^3]
 
